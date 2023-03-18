@@ -45,7 +45,7 @@ const randomBackground2 = () => {
   return images[randomIndex];
 };
 
-// logic for random images on page load 
+//end of logic for random images on page load 
 
 const Home = ({ propertiesForSale, propertiesForRent }) => {
   
