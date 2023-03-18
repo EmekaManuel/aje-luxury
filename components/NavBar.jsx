@@ -9,9 +9,9 @@ import { BiCar } from 'react-icons/bi'
 
 const NavBar = () => {
   return (
-    <Flex p='2' borderBottom='1px' borderColor='gray.100'>
-        <Box fontSize='3xl' color='black.400' fontFamily={"monospace"} letterSpacing='tight' fontWeight='bold'>
-            <Link href={'/'} paddingLeft='2'>Aje Luxury!</Link>
+    <Flex p='2' borderBottom='1px' borderColor='gray.200'>
+        <Box fontSize='3xl' color='blue.600' fontFamily={"fantasy"} letterSpacing='tight' fontWeight='bold'>
+            <Link href={'/'} paddingLeft='2'>Aje Luxury !</Link>
         </Box>
         <Spacer/>
         <Box>
